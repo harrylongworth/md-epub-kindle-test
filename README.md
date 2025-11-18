@@ -16,8 +16,7 @@ Kindle Preview User Guide:
 
 <https://kindlepreviewer3.s3.amazonaws.com/UserGuide320_EN.pdf>
 
-version used for testing in docs folder
-
+Version used for testing in docs folder
 
 # Build process
 

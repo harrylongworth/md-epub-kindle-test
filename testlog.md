@@ -6,6 +6,12 @@ Author: Harry Longworth
 
 # 20251118
 
+## 1634hrs
+
+- tried simply open and auto clean with Sigil
+- still fails
+- still no log
+ 
 ## 1621hrs
 
 Results:
